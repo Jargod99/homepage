@@ -1,0 +1,63 @@
+.container {
+    font-family: "Rubik", sans-serif;
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 0 20px;
+
+}
+
+.header {
+    background-color: rgb(88, 122, 150);
+    color: azure;
+    text-align: center;
+    height: 50px;
+    border-radius: 0 0 10px 10px;
+}
+
+.section__header {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.section__image {
+    width: 100%;
+    max-width: 500px ;
+    height: auto; 
+    margin: 20px auto;
+    display: block;
+}
+
+.section__underList {
+    list-style-type: square;
+    margin: 20px 10px;
+    line-height: 1.6;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.performanceContainer {
+    max-width: 400px;
+    border: 3px solid rgb(27, 25, 65);
+    border-radius: 100px;
+    border-bottom-left-radius: 0;
+    margin: 50px auto;
+    padding: 10px;
+    text-align: left;
+    background-color: aliceblue;
+    box-shadow: -5px 0px 27px 14px #B2D0E8;
+    text-shadow: 1px 2px 5px rgb(60, 32, 32);
+}
+
+.buttonContainer {
+    text-align: center;
+}
+
+.buttonContainer__button {
+    background: aliceblue;
+    box-shadow: -5px 0px 27px 14px #B2D0E8;
+    margin-bottom: 30px;
+}
+
+.performance2 {
+    margin-left: 0px;
+}
