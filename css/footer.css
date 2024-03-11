@@ -1,7 +1,6 @@
 .footer {
     background-color: rgb(221, 219, 219);
-    height: 30px;
-    
+    height: 30px; 
 }
 
 .footer__paragraph {
@@ -9,6 +8,5 @@
     font-size: 11px;
     text-align: center;
     padding: 10px;
-    margin: auto;
-    
+    margin: auto; 
 }
